@@ -1,4 +1,4 @@
-local DTlib = loadstring(game:HttpGet('https://pastebin.com/raw/GzWFEhRU'))()
+local DTlib = loadstring(game:HttpGet('https://pastebin.com/raw/Lcst2ug0'))()
 
     local _CONFIGS = {  --> 游戏配置列表, 如果不懂请勿修改, 可以改数字
 	   ["UI_NAME"] = define,
