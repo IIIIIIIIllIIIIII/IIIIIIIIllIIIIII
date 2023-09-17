@@ -1,4 +1,4 @@
-local DTlib = loadstring(game:HttpGet('https://pastebin.com/raw/GzWFEhRU'))()
+local DTlib = loadstring(game:HttpGet('https://pastebin.com/raw/Lcst2ug0'))()
 
 --<<  游戏功能部分 >>
 		local players, gs = game:GetService("Players"), function(service)
