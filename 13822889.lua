@@ -275,11 +275,11 @@ local DTlib = loadstring(game:HttpGet('https://pastebin.com/raw/Lcst2ug0'))()
 	DTwin1:NewSeparator()
 	
 	
-	DTwin1:NewButton("脚本作者  锋芒阿康", function()
-		print("感谢 锋芒阿康")
+	DTwin1:NewButton("脚本作者  锋芒毕露", function()
+		print("感谢 锋芒阿康提供的功能")
 	end)
 	
-	DTwin1:NewButton("脚本合作者  猫猫", function()
+	DTwin1:NewButton("脚本合作者 无", function()
 		print("感谢 猫猫")
 	end)
 	
